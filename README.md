@@ -22,7 +22,7 @@ luz en el eje Z
 - {B}:
 luz en el eje Y
 
-- {Q}:
+- {P}:
 Shader de RGB Gaming PC MASTER RACE 144FPS @ 144Hz res: 4k
 
 
