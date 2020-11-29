@@ -203,7 +203,7 @@ def process_input(rotationX, radius, rotationY, light, rgbGamingShader):
                 light.y = light.y * -1
             if event.key == pygame.K_b:
                 light.x = light.x * -1
-            if event.key == pygame.K_q:
+            if event.key == pygame.K_p:
                 if rgbGamingShader == False:
                     rgbGamingShader = True
                 else:

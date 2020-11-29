@@ -6,6 +6,42 @@ Se logró lo siguiente:
 
 ![Tower](output.png)
 
+## Instrucciones
+- {Z}:
+Fill
+
+- {X}:
+Wireframe
+
+- {C}:
+luz en el eje X
+
+- {V}:
+luz en el eje Z
+
+- {B}:
+luz en el eje Y
+
+- {Q}:
+Shader de RGB Gaming PC MASTER RACE 144FPS @ 144Hz res: 4k
+
+
+- DERECHA:
+Rotacion (Eje X)
+
+- IZQUIERDA:
+Rotacion (Eje X)
+
+- ARRIBA:
+Rotacion (Eje Y)
+
+- ABAJO:
+Rotacion (Eje Y)
+
+- {M}:
+Zoom in
+- {N}:
+Zoom out
 
 ## Objetivo
 El objetivo de éste proyecto es demostrar los conocimientos adquiridos durante la segunda mitad del curso.
