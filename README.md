@@ -4,7 +4,8 @@
 
 Se logró lo siguiente:
 
-![Tower](output.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35475066/100534834-e20afd00-31d8-11eb-8ff3-229d926a3a68.gif)
+
 
 ## Instrucciones
 - {Z}:
