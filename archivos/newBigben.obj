@@ -1,7 +1,7 @@
 # Blender v2.83.2 OBJ File: 'camaro.blend'
 # www.blender.org
 mtllib newBigben.mtl
-o 10059_big_ben
+o bigben
 v -3.309523 -29.785660 -4.263333
 v -3.315967 -29.098345 -4.279503
 v -0.063895 -29.098343 -4.279502
