@@ -1,3 +1,8 @@
+#Diego Estrada
+#Carnet 18540
+#Gráficas
+#Dennis Aldana
+
 import pygame
 import numpy
 import glm
